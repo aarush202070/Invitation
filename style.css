@@ -26,8 +26,7 @@
 #marqueeStyle{
     font-family: 'Patrick Hand', cursive;
     font-size: 15px;
-    background:#242323
-;
+    background:#242323;
     width: 100%;
     text-decoration: underline;
     color: azure;
@@ -57,10 +56,6 @@ img{
 .movie_text span{
     color: #ff7700;
 }
-#imh{
-    height: 768px;
-    width: 636px; 
-}
 #pkmnicu p{
     font-size: 35px;
     font-family: 'Permanent Marker', cursive;
@@ -83,11 +78,9 @@ img{
 }
 #movie{
     text-align: center;
+     border: 1px solid grey;
 }
-#movie img{
-    width: 800px;
-    height: 400px;
-}
+
 #movie h3{
     font-family: 'Pacifico', cursive;
     font-size: 35px;
@@ -95,9 +88,6 @@ img{
 #movie h2{
   font-family: 'ZCOOL KuaiLe', cursive;
     font-size: 20px;
-}
-#imhm{
- border: 1px solid grey;
 }
 #book h4{
     margin-top: 100px;
@@ -144,3 +134,16 @@ font-family: 'Orbitron', sans-serif;
 .environment_li p{
     margin-top: 10px;
 }
+.travel_mainDiv{
+    border:1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_mainDiv hr{
+    width: 230px;
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin-top: 20px;
+} 
