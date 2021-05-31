@@ -153,7 +153,9 @@ font-family: 'Orbitron', sans-serif;
 #lolk{
     color: crimson;
     text-align: center;
-    margin-left: 450px;
     font-family: 'Pacifico', cursive;
-    font-size: 35px;
+    font-size: 36px;
+    z-index: 99999;
+    width: 100%;
+
 }
