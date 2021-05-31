@@ -16,13 +16,13 @@
     padding-right: 25px;
     font-family: 'Dancing Script', cursive;
     display:inline;
-    font-size:18px;
+    font-size:20px;
     position: sticky;
 }
 .links:hover{
     background-color: #fc5858;
     text-decoration: underline;
-    font-size: 22px;
+    font-size: 25px;
 }
 #marqueeStyle{
     font-family: 'Patrick Hand', cursive;
@@ -66,8 +66,8 @@ img{
     font-family: 'Permanent Marker', cursive;
 }
 #pkmnicu img{
-    height: 500px;
-    width:200px; 
+    height: 5000px;
+    width:100px; 
 }
 #pkmnicupa p{
     font-size: 35px;
@@ -112,8 +112,7 @@ margin-top: 100px;
     text-align: center;
 }
 #lolo{
-    margin-right: 50px;
-    margin-left: 250px;
+    margin-left: 20px;
 }
 .kikl{
 font-family: 'Orbitron', sans-serif;
