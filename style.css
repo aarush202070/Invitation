@@ -12,8 +12,8 @@
 .links{
     color:#114f4b;
     padding-top: 5px;
-    padding-left: 33px;
-    padding-right: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
     font-family: 'Dancing Script', cursive;
     display:inline;
     font-size:20px;
@@ -26,11 +26,12 @@
 }
 #marqueeStyle{
     font-family: 'Patrick Hand', cursive;
-    font-size: 15px;
+    font-size: 30px;
     background:#242323;
     width: 100%;
     text-decoration: underline;
     color: azure;
+    text-decoration-color: blueviolet;
 }
 body{
     text-align: center;
@@ -66,12 +67,13 @@ img{
     font-family: 'Permanent Marker', cursive;
 }
 #pkmnicu img{
-    height: 5000px;
-    width:100px; 
+    height: 500px;
+    width:90px; 
 }
 #pkmnicupa p{
     font-size: 35px;
     font-family: 'Permanent Marker', cursive;
+    margin-bottom: 400px;
 }
 #pkmnicupa img{
     height: 500px;
@@ -112,7 +114,7 @@ margin-top: 100px;
     text-align: center;
 }
 #lolo{
-    margin-left: 20px;
+    margin-left: 40px;
 }
 .kikl{
 font-family: 'Orbitron', sans-serif;
@@ -148,3 +150,10 @@ font-family: 'Orbitron', sans-serif;
 .travel_mainDiv h5, .travel_mainDiv p{
     margin-top: 20px;
 } 
+#lolk{
+    color: crimson;
+    text-align: center;
+    margin-left: 450px;
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+}
