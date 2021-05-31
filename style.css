@@ -17,6 +17,7 @@
     font-family: 'Dancing Script', cursive;
     display:inline;
     font-size:18px;
+    position: sticky;
 }
 .links:hover{
     background-color: #fc5858;
@@ -111,7 +112,8 @@ margin-top: 100px;
     text-align: center;
 }
 #lolo{
-    margin-right: 550px;
+    margin-right: 50px;
+    margin-left: 250px;
 }
 .kikl{
 font-family: 'Orbitron', sans-serif;
